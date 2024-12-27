@@ -1,3 +1,3 @@
 
 for i in range(10):
-    print("Sheevendra Singh")
+    print(i+1)
