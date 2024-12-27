@@ -1,3 +1,3 @@
 
 for i in range(10):
-    print(i+1)
+    print("printed number is="i+1)
